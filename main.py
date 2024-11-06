@@ -11,4 +11,5 @@ Luas = Panjang * Lebar
 keliling = 2 * (Panjang + Lebar )
 
 #menampilkan hasil luas dan keliling
-print(f"Luas persegi panjang: {Luas} satuan persegi")
+print(f"Luas persegi panjang: {Luas}")
+print(f"keliling persegi panjang adalah:{keliling}")
